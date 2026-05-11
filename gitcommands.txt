@@ -37,4 +37,45 @@
    36  git remote -v
    37  git push origin master
    38 history
+
    this is a new change in the file on github
+
+      39  pwd
+   40  touch gitcommands.txt
+   41  vm gitcommands.txt
+   42  vim gitcommands.txt
+   43  cat gitcommands.txt
+   44  ls
+   45  git status
+   46  git add gitcommands.txt
+   47  git status
+   48  git commit -m "added file gitcommands.txt to commit"
+   49  git status
+   50  git push origin master
+   51  git remote -v
+   52  git status
+   53  ls
+   54  git push origin master
+   55  vim gitcommands.txt
+   56  git push origin master
+   57  git add gitcommands.txt
+   58  git commit --amend --no-edit
+   59  git push origin master
+   60  vim gitcommands.txt
+   61  git add gitcommands.txt
+   62  git commit --amend --no-edit
+   63  vim gitcommands.txt
+   64  git push origin master
+   65  vim gitcommands.txt
+   66  cat gitcommands.txt
+   67  git push origin master
+   68  git add gitcommands.txt
+   69  git commit --amend --no-edit
+   70  git push origin master
+   71  cat gitcommands.txt
+   72  git push origin master
+   73  git push origin master --force
+   74  vim gitcommands.txt
+   75  git pull origin master
+   76  vim gitcommands.txt
+   77  history
